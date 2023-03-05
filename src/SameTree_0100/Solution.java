@@ -1,4 +1,4 @@
-package SymmetricTree_0101;
+package SameTree_0100;
 
 public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
